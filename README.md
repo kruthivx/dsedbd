@@ -1,4 +1,4 @@
 # dbse-dbd
-week 1 
-week 2
+week 1 / 
+week 2 /
 mysql commands 
