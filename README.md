@@ -7,3 +7,4 @@ mysql stored procedures /
 mysql views /
 MOOCS certificates /
 dbse&dbd practical week-3.pdf /
+mysql triggers /
